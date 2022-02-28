@@ -1,0 +1,25 @@
+{
+  "name": "RewaaPrintwebview",
+  "version": "0.0.1",
+  "description": "to render html",
+  "cordova": {
+    "id": "com.print.webview.plugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandip3008/printwebview.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Sandip",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandip3008/printwebview/issues"
+  },
+  "homepage": "https://github.com/sandip3008/printwebview#readme"
+}
